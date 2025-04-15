@@ -1,5 +1,4 @@
 # Database 
-Azure SQL | MSSQL | MYSQL
 # Azure SQL | MSSQL | MYSQL
 
 Databases are the backbone of virtually every modern application, enabling the efficient storage, retrieval, and management of data. As organizations increasingly rely on data to drive decision-making and digital transformation, choosing the right database platform becomes critical. Among the most popular and widely adopted relational database management systems (RDBMS) are Microsoft SQL Server (MSSQL), MySQL, and Azure SQL Database.
