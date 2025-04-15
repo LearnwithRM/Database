@@ -1,6 +1,4 @@
 # Database 
-# Azure SQL 
-
 Databases are the backbone of virtually every modern application, enabling the efficient storage, retrieval, and management of data. As organizations increasingly rely on data to drive decision-making and digital transformation, choosing the right database platform becomes critical. 
 # Azure SQL
 Azure SQL Database is a fully managed, cloud-based version of Microsoft SQL Server offered through Microsoft Azure. It provides the benefits of SQL Server in a Platform as a Service (PaaS) model, eliminating the need for infrastructure management. Azure SQL is highly scalable, secure, and supports high availability and disaster recovery out-of-the-box.
