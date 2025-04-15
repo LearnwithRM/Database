@@ -11,16 +11,16 @@ Azure SQL Database is a fully managed, cloud-based version of Microsoft SQL Serv
 
 This document provides an overview and comparison of MSSQL, MySQL, and Azure SQL, covering the following key areas:
 
-Architecture and deployment models
+  * Architecture and deployment models
 
-SQL syntax and querying capabilities
+  * SQL syntax and querying capabilities
 
-Security and authentication mechanisms
+  * Security and authentication mechanisms
 
-Backup, recovery, and high availability
+  * Backup, recovery, and high availability
 
-Performance tuning and scalability
+  * Performance tuning and scalability
 
-Use cases and best practices
+  * Use cases and best practices
 
 By understanding the similarities and differences among these platforms, readers can make informed decisions on which database technology best suits their application requirements, development environment, and long-term goals.
